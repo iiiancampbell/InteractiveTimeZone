@@ -63,14 +63,12 @@ footer {
         position: relative;
         top: -50px;
     }
-    #main {
-        font-size: 1em;
-    }
     #container {
         font-size: 1em;
     }
     #main {
         top: 100px;
+        font-size: 1em;
     }
     .child {
         line-height: 25px;
@@ -83,14 +81,12 @@ footer {
         position: relative;
         top: -50px;
     }
-    #main {
-        font-size: 1em;
-    }
     #container {
         font-size: 1em;
     }
     #main {
         top: 100px;
+        font-size: 1em;
     }
     .child {
         line-height: 25px;
