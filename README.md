@@ -13,3 +13,4 @@ This dashboard fixes that issue.
 The built in date handling with Javascript is a pain when trying to deal with different time zones and daylight savings adjustments. It IS possible but the amount of work needed to put in wasn't worth the pay off in my mind. 
 
 Instead, moment.js was used as it is an small and efficient library that allows for the easy integration of date formating adjustment.
+Learning how moment.js workedwas a breeze and achieved the exact results I was aiming for with minimal code. 
